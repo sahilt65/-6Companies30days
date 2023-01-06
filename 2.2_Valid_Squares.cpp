@@ -1,3 +1,8 @@
+/*
+Link to the Question:
+https://leetcode.com/problems/valid-square/
+*/
+
 class Solution {
 public:
     double squareDistanceBetweenTwoPoint(vector<int> p1, vector<int> p2){
